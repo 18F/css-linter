@@ -1,0 +1,34 @@
+body {
+  color:     green;
+}
+.div {
+  color:blue;
+}
+.span {
+  color: yellow;
+}
+/*
+@mixin fakeMixin {
+  color: coral;
+}
+
+a {
+  color: yellow;
+}
+
+.rule {
+  margin: 3px;
+  text-align: center;
+  @include fakeMixin;
+}
+
+selector1,selector2,
+selector3 {
+  margin:3px;
+}
+
+.rule{
+  color: blue;
+    margin:3px;text-align:center;
+    }
+*/

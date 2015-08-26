@@ -1,0 +1,17 @@
+{
+  "name": "18f-css-linter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeremiak",
+  "license": "Public Domain",
+  "repository": "git@github.com:18f/css-linter.git",
+  "dependencies": {
+    "postcss": "^5.0.2",
+    "postcss-scss": "^0.1.0"
+  }
+}

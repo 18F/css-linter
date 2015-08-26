@@ -1,0 +1,22 @@
+body       {
+  color:     green;
+}
+
+a {
+  color: yellow;
+}
+
+.rule {
+  margin: 3px;
+  text-align: center;
+}
+
+selector1,selector2,
+selector3 {
+  margin:3px;
+}
+
+.rule{
+  color: blue;
+    margin:3px;text-align:center;
+    }

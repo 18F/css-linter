@@ -1,0 +1,26 @@
+body {
+  color: green;
+}
+
+a {
+  color: yellow;
+}
+
+.rule {
+  margin: 3px;
+  text-align: center;
+}
+
+selector1, 
+selector2, 
+selector3 {
+  margin: 3px;
+}
+
+.rule {
+  color: blue;
+  margin: 3px;
+  text-align: center;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInVnbHkuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsYUFBaUI7Q0FDbEI7O0FBRUQ7RUFDRSxjQUFjO0NBQ2Y7O0FBRUQ7RUFDRSxZQUFZO0VBQ1osbUJBQW1CO0NBQ3BCOztBQUVEOzs7RUFFRSxZQUFXO0NBQ1o7O0FBRUQ7RUFDRSxZQUFZO0VBQ1YsWUFBVztFQUFBLG1CQUFrQjtDQUM1QiIsImZpbGUiOiJwcmV0dHkuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiYm9keSAgICAgICB7XG4gIGNvbG9yOiAgICAgZ3JlZW47XG59XG5cbmEge1xuICBjb2xvcjogeWVsbG93O1xufVxuXG4ucnVsZSB7XG4gIG1hcmdpbjogM3B4O1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbnNlbGVjdG9yMSxzZWxlY3RvcjIsXG5zZWxlY3RvcjMge1xuICBtYXJnaW46M3B4O1xufVxuXG4ucnVsZXtcbiAgY29sb3I6IGJsdWU7XG4gICAgbWFyZ2luOjNweDt0ZXh0LWFsaWduOmNlbnRlcjtcbiAgICB9XG4iXX0= */
