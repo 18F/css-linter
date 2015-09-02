@@ -82,8 +82,9 @@ var ensureSpaceInProperty = postcss.plugin('space-in-property', function (opts) 
     };
 });
 
-module.exports = [ensureNoIndentSelectors,
-    ensureSpaceInRuleName];
+module.exports = {
+  ensureSpaceInRuleName: ensureSpaceInRuleName
+}
 //   ensureEachPropertyOwnLine,
 //   ensureSpaceInProperty,
 //   ensureNewLineBeforeRuleClosing,
