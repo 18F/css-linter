@@ -3,7 +3,7 @@ var chai = require('chai');
 var postcss = require('postcss');
 var syntax = require('postcss-scss');
 
-var rules = require('../src/plugins');
+var rules = require('../src/format');
 
 var expect = chai.expect;
 
